@@ -66,7 +66,7 @@ ___
 这是一个[引用样式链接][example_link]。
 
 这是一个内联图片：
-![Markdown Logo](https://www.markdown.cn/images/logo.png "Markdown Logo")
+![Markdown Logo](https://www.markdown.cn/img/hero.png "Markdown Logo")
 
 这是一个引用样式图片：
 ![GitHub Logo][github_logo]
@@ -120,4 +120,4 @@ hello_world()
 第一行。
 第二行（通过两个空格加换行实现）。
 
-这是一个包含特殊字符的文本：\*星号\*，\_下划线\_，\`反引号\`，\[方括号\]，\(圆括号\)，\#井号，\+加号，\-减号，\.点号，\!感叹号。
+这是一个包含特殊字符的文本：\*星号\*，\_下划线\_，\`反引号\`，\[方括号\]，\(圆括号\)，\#井号，\+加号，\-减号，\.点号，\! 感叹号。
